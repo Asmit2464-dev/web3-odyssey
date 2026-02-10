@@ -4,7 +4,7 @@
 **Blockchain, Web3, Smart Contracts, DeFi, and Decentralization** through
 immersive visuals and smooth interactions.
 
-LIVE DEMO: 
+##=> LIVE DEMO: https://asmit2464-dev.github.io/web3-odyssey/
 
 Built using **pure HTML, CSS, and JavaScript** with no frameworks.
 
